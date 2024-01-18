@@ -15,3 +15,4 @@
   1.3. Заключение: копируется введение в прошедшем времени <br>
   Как это должно быть оформлено (ГОСТ) 
 </p>
+<p>https://docs.google.com/document/d/1Bm6FuxralhmzPzm56r7Elu1l1m5XIVGkFuRDh6fRc0g/edit?usp=sharing</p>
